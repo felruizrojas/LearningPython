@@ -1,2 +1,2 @@
-# LearningPython
+# **LearningPython**
 Exercises in Python Language
